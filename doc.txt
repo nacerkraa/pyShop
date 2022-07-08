@@ -7,7 +7,7 @@ pip install django==2.1
 python3 manage.py makemigrations
 python3 manage.py migrate
 
-# create super user
+# create superuser
 python3 manage.py createsuperuser
 
 
